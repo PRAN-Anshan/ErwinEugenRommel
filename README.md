@@ -1,2 +1,6 @@
-# ErwinEugenRommel
-Config files for my GitHub profile.
+# 这里是鞍山号驱逐舰！
+你好，同志！由于博客的作者正在早日学习以便将来贯彻自动化统筹管理系统移除自由市场和腐败低效，因此你可能不常看到他更新。
+但是我会尽力的：D
+（毕竟是第一次上高中也是第二次写博客/tuu
+（原来的博客大家可以去这个网站看啦→https://ericjl.blog.luogu.org/
+还是年轻好啊（感叹
